@@ -3,7 +3,7 @@
   [![Profile Views](https://komarev.com/ghpvc/?username=SepandJP&style=for-the-badge)](https://komarev.com/ghpvc/?username=SepandJP&style=for-the-badge)
   [![LinkedIn Profile](https://img.shields.io/badge/-SepandJP-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SepandJP/)](https://www.linkedin.com/in/SepandJP/")
   [![Codepen Profile](https://img.shields.io/badge/-Sepand-0072b1?style=for-the-badge&logo=codepen&color=blueviolet&logoColor=black&link=https://www.codepen.io/Sepand/)](https://www.codepen.io/Sepand/)
-  [![Email Badge](https://img.shields.io/badge/-sepand100@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sepand100@gmail.com)](mailto:sepand100@gmail.com)
+  [![Email Badge](https://img.shields.io/badge/-sepandjp@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sepandjp@gmail.com)](mailto:sepandjp@gmail.com)
   
 </div>
 
