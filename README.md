@@ -29,7 +29,7 @@
 ## Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,postman,webpack&&perline=4&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,postman,selenium&&perline=4&theme=dark" />
   </a>
 </p>
 </details>
